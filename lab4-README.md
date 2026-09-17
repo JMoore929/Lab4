@@ -1,4 +1,4 @@
-# Lab 04: Infrastructure as Code with Terraform
+# Lab 4: Infrastructure as Code with Terraform
 
 **Platform:** Microsoft Azure (Cloud Shell)
 
