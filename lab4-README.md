@@ -66,7 +66,7 @@ graph TB
 | Virtual Network | `vnet-terraform` | `10.0.0.0/16` |
 | Subnet | `snet-backend` | `10.0.1.0/24` |
 | NSG (Phase 5) | `nsg-web` | Added to the live environment mid-lab |
-| Location | `East US` | |
+| Location | `Central US` | |
 
 ---
 
