@@ -2,6 +2,9 @@
 
 **Platform:** Microsoft Azure (Cloud Shell)
 
+**Loom Video Link**
+https://www.loom.com/share/6c1bfa5ec8ff432381fe44645cc58827
+
 ---
 
 ## 📌 Overview
