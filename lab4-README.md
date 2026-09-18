@@ -128,7 +128,7 @@ graph TB
    # CHANGE "yourname" below to your own first name.
    resource "azurerm_resource_group" "rg" {
      name     = "rg-lab04-tf-yourname"   # <-- CHANGE THIS
-     location = "East US"
+     location = "Central US"
    }
 
    # ── 3. Virtual Network ────────────────────────────────────────────────
